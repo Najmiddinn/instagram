@@ -39,3 +39,4 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 #
 * 	Пользователь может подписаться и отписаться от аккаунта
+* 	tutorial
